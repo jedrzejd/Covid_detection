@@ -130,5 +130,7 @@ dmypy.json
 <<<<<<< HEAD
 
 models/model.best1.hdf5
+models/model.best2.hdf5
+models/model.best3.hdf5
 =======
 >>>>>>> dd83491a3cc8f2e960bae65a0a69a173522a71d5
